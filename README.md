@@ -6,3 +6,4 @@ Bu Programda Yapabilecekleriniz:
 5)Kullanıcı Şifre Değiştirme Paneli
 
 !DİP NOT!:Proje Daha Bitmemiştir!
+exe. Dosyasını indirirken bu Dosyalarıda İndirin(StokTakip.accdb,Personel.accdb)
